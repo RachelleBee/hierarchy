@@ -1,0 +1,12 @@
+public class PharmacyCustomer {
+    public static void main(String[] args){
+
+        Medicine Amoxicillan = new Medicine();
+        Medicine Aspirin = new Medicine();
+
+    }
+    class Medicine extends Pharmacy{
+
+        Medicine Medicine = new Medicine();
+        int miligrams = miligrams();
+        int amount = amount();
